@@ -1,6 +1,6 @@
 package com.learngit;
-/*
-* @author:Lgl
+/**
+* @author Lgl
 * */
 public class GitTest {
     public static void main(String[] args) {
